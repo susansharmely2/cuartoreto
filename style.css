@@ -1,0 +1,65 @@
+/*  style="background-color: rgb(72, 9, 131);" **/
+
+h1{
+    color: rgb(72, 9, 131);
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+text-align: center;
+font-size: 40px;
+color: rgb(77, 75, 77);
+
+}
+
+.header {
+    background-color: rgb(72, 9, 131);
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.menu .link{
+    
+    padding: 10px 20px 10px 20px;
+    text-align: center; 
+}
+
+.description{
+    background-color: rgb(206, 240, 229);
+}
+
+.description >p{
+    color: brown;
+  
+}
+
+.parrafo  p{
+    color:rgb(4, 0, 255);
+}
+
+.conciertos
+{
+    background-color: rgb(227, 205, 241);
+}
+
+.footer-menu
+{
+    background-color: black;
+    
+}
+
+.menu-link{
+    text-align: center;
+}
+
+.footer-menu > h3{
+  
+        text-align: center;
+        color: rgb(253, 253, 253);
+        font-size: 12px;
+        font-weight:normal;
+ 
+}
